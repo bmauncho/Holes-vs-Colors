@@ -704,7 +704,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1230420308}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.005, y: 0, z: -1.855}
+  m_LocalPosition: {x: 0.005, y: 0, z: -1.85}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 207317895}
@@ -726,7 +726,7 @@ MonoBehaviour:
   meshColllider: {fileID: 2362477003212891673}
   Radius: 0.35
   HoleCentre: {fileID: 1230420309}
-  MoveSpeed: 1
+  MoveSpeed: 5
 --- !u!1 &1309397382
 GameObject:
   m_ObjectHideFlags: 0
